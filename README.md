@@ -1,7 +1,7 @@
 # 👋 Hi, I'm King-Adonai Arubina
 
 🔐 CompTIA Security+ Certified (SY0-701)  
-🎓 Mechatronics Engineering Undergraduate  
+🎓 Mechatronics Engineering Graduate  
 🤖 Cybersecurity & AI Enthusiast  
 🌍 Lagos, Nigeria  
 
